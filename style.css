@@ -1,0 +1,42 @@
+h1{
+    color: black;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+body{ 
+    background-color: #FF69B4;
+}
+
+h2{
+    background-color: #F01A7C;
+    font-weight: bold;
+}
+#t1 {
+    color: white;
+    text-decoration: underline dotted;
+}
+.resume{
+    color: whitesmoke;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: aquamarine;
+}
+a:hover{
+    color: black;
+}
+
+.hobby{
+    font-style: italic;
+    
+}
+
+.edu{
+    font-style: oblique;
+}
+
+#final{
+    text-decoration: line-through;
+}
